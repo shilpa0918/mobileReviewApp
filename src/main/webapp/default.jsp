@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Welcome to Mobile Review Application</h2>
+
 </body>
 </html>
